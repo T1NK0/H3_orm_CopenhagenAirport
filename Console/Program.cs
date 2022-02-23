@@ -30,7 +30,6 @@ foreach (var booking in bookings)
     Console.WriteLine("");
 }
 
-
 Booking bookingCreate = new Booking();
 bookingCreate.Time = new DateTime(2022, 02, 23, 08, 15, 00);
 bookingCreate.Airline = new Airline() { AirlineName = "ALSIE EXPRESS A/S" };
