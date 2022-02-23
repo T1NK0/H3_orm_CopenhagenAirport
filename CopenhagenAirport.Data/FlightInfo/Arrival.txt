@@ -1,0 +1,1073 @@
+07:53
+SCANDINAVIAN AIRLINES
+Dusseldorf
+Germany
+Dusseldorf International Airport
+SK620
+B3A
+
+07:49
+DAT
+Bornholm
+Denmark
+Bornholm Airport
+DX033
+A11
+
+07:43
+ALSIE EXPRESS A/S
+Sonderborg
+Denmark
+Sonderborg Airport
+6I101
+A9 
+
+07:35
+SCANDINAVIAN AIRLINES
+Aalborg
+Denmark
+Aalborg Airport
+SK1202
+D2
+
+07:36
+RYANAIR Ltd
+Gdansk
+Poland
+Gdansk Lech Walesa Airport
+FR6844
+F6A
+
+08:00
+DAT
+Aalborg
+Denmark
+Aalborg Airport
+DX153
+A7
+
+08:07
+FINNAIR
+Helsinki
+Finland
+Helsinki-Vantaa Airport
+AY951
+A14 
+
+07:58
+EUROWINGS Luftverkehrs AG
+Dusseldorf
+Germany
+Dusseldorf International Airport
+EW9242
+B19 
+
+08:00
+Norwegian Air Sweden
+Aalborg
+Denmark
+Aalborg Airport
+D83081
+A8 
+
+08:29
+EasyJet Europe
+Berlin
+EJU5683
+F8A
+
+08:13
+EasyJet Europe
+Amsterdam
+Netherlands
+Amsterdam Airport Schiphol
+EJU7921
+F7A
+
+08:52
+Norwegian Air DOC AS
+Oslo
+Norway
+Oslo Airport Gardermoen
+DY932
+A4
+
+08:50
+DAT
+Karup
+Denmark
+Midtjyllands Airport
+DX073
+A9
+
+08:34
+EasyJet Europe
+Paris
+France
+Charles de Gaulle Airport
+EJU3823
+F6A
+
+08:59
+AUSTRIAN AIRLINES
+Vienna
+Austria
+Vienna International Airport
+OS301
+
+09:05
+AIR FRANCE
+Paris
+France
+Charles de Gaulle Airport
+AF1750
+
+08:59
+KLM ROYAL DUTCH AIRLINES
+Amsterdam
+Netherlands
+Amsterdam Airport Schiphol
+KL1125
+
+09:15
+Norwegian Air Sweden
+Aalborg
+Denmark
+Aalborg Airport
+D83083
+
+09:09
+LUFTHANSA
+Frankfurt
+Germany
+Frankfurt Airport
+LH824
+
+09:11
+RYANAIR Ltd
+Rome
+Italy
+Leonardo da Vinci-Fiumicino Airport
+FR407
+
+09:44
+Pegasus Hava Tasimaciligi
+Istanbul
+Turkey
+Sabiha Gokcen International Airport
+PC1071
+
+10:05
+Norwegian Air Sweden
+Stockholm
+Sweden
+Stockholm Arlanda Airport
+D83195
+
+10:05
+Net Netherlands
+Birmingham
+United Kingdom of Great Britain and Northern Ireland
+Birmingham International Airport
+JNL1256
+
+10:10
+Easyjet
+Manchester
+United Kingdom of Great Britain and Northern Ireland
+Manchester Airport
+EZY1985
+
+10:10
+DAT
+Bornholm
+Denmark
+Bornholm Airport
+DX035
+
+10:15
+SCANDINAVIAN AIRLINES
+Aarhus
+Denmark
+Aarhus Airport
+SK1244
+
+10:25
+SCANDINAVIAN AIRLINES
+Stockholm
+Sweden
+Stockholm Arlanda Airport
+SK403
+
+10:14
+TURKISH AIRLINES
+Istanbul
+Turkey
+Istanbul Airport
+TK1783
+
+10:30
+Overland Airways
+Stockholm
+Sweden
+Stockholm Arlanda Airport
+OJ772
+
+10:30
+SCANDINAVIAN AIRLINES
+Oslo
+Norway
+Oslo Airport Gardermoen
+SK455
+
+10:30
+SCANDINAVIAN AIRLINES
+Hamburg
+Germany
+Hamburg Airport
+SK646
+
+10:35
+Airline Support Executive
+Dusseldorf
+Germany
+Dusseldorf International Airport
+ASE331
+
+10:40
+DAT
+Aalborg
+Denmark
+Aalborg Airport
+DX157
+
+10:40
+CROATIA AIRLINES
+Zagreb
+Croatia
+Zagreb International Airport
+OU480
+
+10:50
+Singapore Airlines
+Rome
+Italy
+Leonardo da Vinci-Fiumicino Airport
+SQ351
+
+11:00
+SCANDINAVIAN AIRLINES
+Stavanger
+Norway
+Stavanger Airport Sola
+SK1875
+
+11:10
+SCANDINAVIAN AIRLINES
+Aalborg
+Denmark
+Aalborg Airport
+SK1208
+
+11:10
+SCANDINAVIAN AIRLINES
+Stockholm
+Sweden
+Stockholm Arlanda Airport
+SK1419
+
+11:10
+SCANDINAVIAN AIRLINES
+Oslo
+Norway
+Oslo Airport Gardermoen
+SK1455
+
+11:20
+SCANDINAVIAN AIRLINES
+Dusseldorf
+Germany
+Dusseldorf International Airport
+SK1630
+
+11:20
+RYANAIR Ltd
+Malaga
+Spain
+Malaga Airport
+FR4047
+
+11:25
+RYANAIR Ltd
+London
+United Kingdom of Great Britain and Northern Ireland
+Stansted Airport
+FR7384
+
+11:30
+SCANDINAVIAN AIRLINES
+Bergen
+Norway
+Bergen Airport
+SK2865
+
+11:30
+SCANDINAVIAN AIRLINES
+Warsaw
+Poland
+Frederic Chopin Airport
+SK752
+
+11:35
+SCANDINAVIAN AIRLINES
+Gothenburg
+Sweden
+Goteborg Landvetter Airport
+SK443
+
+11:40
+KLM ROYAL DUTCH AIRLINES
+Amsterdam
+Netherlands
+Amsterdam Airport Schiphol
+KL1127
+
+11:55
+TAP PORTUGAL
+Lisbon
+Portugal
+Lisbon Portela Airport
+TP754
+
+12:00
+FINNAIR
+Helsinki
+Finland
+Helsinki-Vantaa Airport
+AY965
+
+12:00
+ICELANDAIR
+Reykjavik
+Iceland
+Keflavik International Airport
+FI204
+
+12:00
+SCANDINAVIAN AIRLINES
+Trondheim
+Norway
+Trondheim Airport Vaernes
+SK2889
+
+12:05
+EasyJet Switzerland
+Geneva
+Switzerland
+Geneve Airport
+EZS1465
+
+12:05
+SCANDINAVIAN AIRLINES
+Zurich
+Switzerland
+Zurich Airport
+SK602
+
+12:10
+DAT
+Bornholm
+Denmark
+Bornholm Airport
+DX037
+
+12:20
+Emirates
+Dubai
+United Arab Emirates
+Dubai Airport
+EK151
+
+12:30
+Pegasus Hava Tasimaciligi
+Konya
+Turkey
+Konya Airport
+PC1771
+
+12:35
+LUFTHANSA
+Munich
+Germany
+Franz Josef Strauss Airport
+LH2440
+
+12:35
+QATAR AIRWAYS
+Doha
+Qatar
+Hamad International Airport
+QR159
+
+12:50
+SCANDINAVIAN AIRLINES
+London
+United Kingdom of Great Britain and Northern Ireland
+London Heathrow Airport
+SK502
+
+13:00
+SCANDINAVIAN AIRLINES
+Paris
+France
+Charles de Gaulle Airport
+SK566
+
+13:05
+SCANDINAVIAN AIRLINES
+Manchester
+United Kingdom of Great Britain and Northern Ireland
+Manchester Airport
+SK540
+
+12:31
+SCANDINAVIAN AIRLINES
+Chicago
+United States of America
+O'Hare International Airport
+SK944
+
+13:25
+SCANDINAVIAN AIRLINES
+Oslo
+Norway
+Oslo Airport Gardermoen
+SK1467
+
+13:40
+KLM ROYAL DUTCH AIRLINES
+Amsterdam
+Netherlands
+Amsterdam Airport Schiphol
+KL1129
+
+13:45
+LUFTHANSA
+Frankfurt
+Germany
+Frankfurt Airport
+LH828
+
+14:10
+SCANDINAVIAN AIRLINES
+Aarhus
+Denmark
+Aarhus Airport
+SK1248
+
+14:10
+EUROWINGS Luftverkehrs AG
+Prague
+Czechia
+Vaclav Havel Airport Prague
+EW4210
+
+14:10
+Swiss International Airlines
+Zurich
+Switzerland
+Zurich Airport
+LX1270
+
+14:15
+BRITISH AIRWAYS
+London
+United Kingdom of Great Britain and Northern Ireland
+London Heathrow Airport
+BA816
+
+14:30
+AIR FRANCE
+Paris
+France
+Charles de Gaulle Airport
+AF1850
+
+14:45
+SCANDINAVIAN AIRLINES
+Palma Mallorca
+Spain
+Palma de Mallorca Airport
+SK586
+
+14:45
+SCANDINAVIAN AIRLINES
+Malaga
+Spain
+Malaga Airport
+SK6206
+
+14:50
+SCANDINAVIAN AIRLINES
+Oslo
+Norway
+Oslo Airport Gardermoen
+SK1469
+
+14:55
+IBERIA EXPRESS
+Madrid
+Spain
+Adolfo Suarez Madrid-Barajas Airport
+I23730
+
+15:10
+Norwegian Air Sweden
+Malaga
+Spain
+Malaga Airport
+D83671
+
+15:15
+Vueling Airlines
+Las Palmas
+Spain
+Gran Canaria Airport
+VY1862
+
+15:15
+Vueling Airlines
+Tenerife-Norte
+VY1864
+
+15:20
+DAT
+Aalborg
+Denmark
+Aalborg Airport
+DX161
+
+15:30
+SCANDINAVIAN AIRLINES
+Palanga
+Lithuania
+Palanga International Airport
+SK2747
+
+15:30
+RYANAIR Ltd
+Edinburgh
+United Kingdom of Great Britain and Northern Ireland
+Edinburgh Airport
+FR2674
+
+15:40
+SCANDINAVIAN AIRLINES
+Dublin
+Ireland
+Dublin Airport
+SK538
+
+15:40
+SCANDINAVIAN AIRLINES
+Reykjavik
+Iceland
+Keflavik International Airport
+SK596
+
+15:55
+DAT
+Bornholm
+Denmark
+Bornholm Airport
+DX047
+
+16:05
+AIR BALTIC
+Tallinn
+Estonia
+Tallinn Airport
+BT811
+
+16:10
+Norwegian Air Sweden
+Aalborg
+Denmark
+Aalborg Airport
+D83089
+
+16:10
+SCANDINAVIAN AIRLINES
+Gdansk
+Poland
+Gdansk Lech Walesa Airport
+SK760
+
+16:15
+SCANDINAVIAN AIRLINES
+Amsterdam
+Netherlands
+Amsterdam Airport Schiphol
+SK548
+
+16:20
+Atlantic Airways
+Faroe Islands
+Faroe Islands
+Vagar Airport
+RC456
+
+16:20
+SCANDINAVIAN AIRLINES
+Oslo
+Norway
+Oslo Airport Gardermoen
+SK1471
+
+16:20
+SCANDINAVIAN AIRLINES
+Vilnius
+Lithuania
+Vilnius International Airport
+SK1743
+
+16:25
+SCANDINAVIAN AIRLINES
+Stockholm
+Sweden
+Stockholm Arlanda Airport
+SK1407
+
+16:30
+RYANAIR Ltd
+Budapest
+Hungary
+Budapest Ferenc Liszt International Airport
+FR605
+
+16:35
+KLM ROYAL DUTCH AIRLINES
+Amsterdam
+Netherlands
+Amsterdam Airport Schiphol
+KL1131
+
+16:35
+Vueling Airlines
+Barcelona
+Spain
+Barcelona-El Prat Airport
+VY1872
+
+16:40
+SCANDINAVIAN AIRLINES
+Aalborg
+Denmark
+Aalborg Airport
+SK1210
+
+16:55
+DAT
+Karup
+Denmark
+Midtjyllands Airport
+DX083
+
+16:55
+TURKISH AIRLINES
+Istanbul
+Turkey
+Istanbul Airport
+TK1785
+
+17:00
+Norwegian Air Sweden
+Aalborg
+Denmark
+Aalborg Airport
+D83087
+
+17:05
+SCANDINAVIAN AIRLINES
+Stavanger
+Norway
+Stavanger Airport Sola
+SK1877
+
+17:10
+Norwegian Air Sweden
+Salzburg
+Austria
+W. A. Mozart Salzburg Airport
+D83595
+
+17:15
+AIR FRANCE
+Paris
+France
+Charles de Gaulle Airport
+AF1050
+
+17:15
+SCANDINAVIAN AIRLINES
+Dusseldorf
+Germany
+Dusseldorf International Airport
+SK1622
+
+17:20
+RYANAIR Ltd
+Turin
+Italy
+Turin Airport
+FR5927
+
+17:20
+SCANDINAVIAN AIRLINES
+Helsinki
+Finland
+Helsinki-Vantaa Airport
+SK1713
+
+17:25
+SCANDINAVIAN AIRLINES
+Bergen
+Norway
+Bergen Airport
+SK2873
+
+17:30
+ALSIE EXPRESS A/S
+Sonderborg
+Denmark
+Sonderborg Airport
+6I107
+
+17:30
+SCANDINAVIAN AIRLINES
+Frankfurt
+Germany
+Frankfurt Airport
+SK676
+
+17:35
+Easyjet
+Manchester
+United Kingdom of Great Britain and Northern Ireland
+Manchester Airport
+EZY1987
+
+17:45
+DAT
+Bornholm
+Denmark
+Bornholm Airport
+DX049
+
+17:50
+SCANDINAVIAN AIRLINES
+Rome
+Italy
+Leonardo da Vinci-Fiumicino Airport
+SK682
+
+18:05
+RYANAIR Ltd
+Cologne
+Germany
+Cologne Bonn Airport
+FR409
+
+18:10
+DAT
+Aalborg
+Denmark
+Aalborg Airport
+DX169
+
+18:10
+KLM ROYAL DUTCH AIRLINES
+Amsterdam
+Netherlands
+Amsterdam Airport Schiphol
+KL1133
+
+18:20
+SCANDINAVIAN AIRLINES
+Stockholm
+Sweden
+Stockholm Arlanda Airport
+SK1429
+
+18:25
+FINNAIR
+Helsinki
+Finland
+Helsinki-Vantaa Airport
+AY959
+
+18:30
+Norwegian Air Sweden
+Aalborg
+Denmark
+Aalborg Airport
+D83091
+
+18:40
+SCANDINAVIAN AIRLINES
+Oslo
+Norway
+Oslo Airport Gardermoen
+SK1465
+
+18:45
+SCANDINAVIAN AIRLINES
+Trondheim
+Norway
+Trondheim Airport Vaernes
+SK2881
+
+18:50
+EasyJet Europe
+Milan
+Italy
+Milano Malpensa Airport
+EJU2655
+
+18:50
+SCANDINAVIAN AIRLINES
+Aarhus
+Denmark
+Aarhus Airport
+SK1260
+
+18:50
+SCANDINAVIAN AIRLINES
+Amsterdam
+Netherlands
+Amsterdam Airport Schiphol
+SK1550
+
+19:00
+SCANDINAVIAN AIRLINES
+Aalborg
+Denmark
+Aalborg Airport
+SK1218
+
+19:00
+Brussels Airlines
+Brussels
+Belgium
+Brussels Airport
+SN2265
+
+19:05
+LOT POLISH AIRLINES
+Warsaw
+Poland
+Frederic Chopin Airport
+LO461
+
+19:20
+MIDDLE EAST AIRLINES (MEA)
+Beirut
+Lebanon
+Beirut-Rafic Hariri International Airport
+ME225
+
+19:20
+AIR BALTIC
+Riga
+Latvia
+Riga International Airport
+BT139
+
+19:20
+AUSTRIAN AIRLINES
+Vienna
+Austria
+Vienna International Airport
+OS305
+
+19:30
+Sunclass Airlines
+Las Palmas
+Spain
+Gran Canaria Airport
+DK1173
+
+19:35
+Norwegian Air Sweden
+Aalborg
+Denmark
+Aalborg Airport
+D83093
+
+19:50
+Norwegian Air DOC AS
+Alicante
+Spain
+Alicante-Elche Airport
+DY5374
+
+19:50
+EasyJet Europe
+Amsterdam
+Netherlands
+Amsterdam Airport Schiphol
+EJU7963
+
+19:50
+SCANDINAVIAN AIRLINES
+Munich
+Germany
+Franz Josef Strauss Airport
+SK2658
+
+19:55
+Norwegian Air Sweden
+Stockholm
+Sweden
+Stockholm Arlanda Airport
+D83213
+
+19:55
+Norwegian Air Sweden
+Oslo
+Norway
+Oslo Airport Gardermoen
+D83240
+
+19:55
+Jettime
+Hurghada
+Egypt
+Hurghada International Airport
+JTD274
+
+20:00
+SCANDINAVIAN AIRLINES
+Warsaw
+Poland
+Frederic Chopin Airport
+SK2752
+
+20:05
+EasyJet Europe
+Paris
+France
+Charles de Gaulle Airport
+EJU3827
+
+20:10
+RYANAIR Ltd
+Milan
+Italy
+Orio al Serio International Airport
+FR2990
+
+20:10
+SCANDINAVIAN AIRLINES
+Dusseldorf
+Germany
+Dusseldorf International Airport
+SK628
+
+20:15
+Easyjet
+London
+United Kingdom of Great Britain and Northern Ireland
+London Gatwick Airport
+EZY8267
+
+20:15
+SCANDINAVIAN AIRLINES
+Hamburg
+Germany
+Hamburg Airport
+SK652
+
+20:20
+AIR GREENLAND
+Pituffik
+Greenland
+Thule Air Base
+GL6802
+
+20:25
+Transavia
+Eindhoven
+Netherlands
+Eindhoven Airport
+HV5961
+
+20:40
+RYANAIR Ltd
+Manchester
+United Kingdom of Great Britain and Northern Ireland
+Manchester Airport
+FR9838
+
+20:45
+NOVAIR
+Las Palmas
+Spain
+Gran Canaria Airport
+NVR168
+
+20:45
+SCANDINAVIAN AIRLINES
+Oslo
+Norway
+Oslo Airport Gardermoen
+SK1477
+
+21:20
+DAT
+Bornholm
+Denmark
+Bornholm Airport
+DX053
+
+21:25
+AIR FRANCE
+Paris
+France
+Charles de Gaulle Airport
+AF1350
+
+21:25
+RYANAIR Ltd
+Dublin
+Ireland
+Dublin Airport
+FR632
+
+21:40
+BRITISH AIRWAYS
+London
+United Kingdom of Great Britain and Northern Ireland
+London Heathrow Airport
+BA822
+
+21:55
+Norwegian Air Sweden
+Aalborg
+Denmark
+Aalborg Airport
+D83095
+
+22:00
+SCANDINAVIAN AIRLINES
+Frankfurt
+Germany
+Frankfurt Airport
+SK1636
+
+22:00
+SCANDINAVIAN AIRLINES
+Brussels
+Belgium
+Brussels Airport
+SK2590
